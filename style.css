@@ -49,9 +49,9 @@
 	font-weight: bold;
 }
 
-/**--.tix-column-remaining {
+/.tix-column-remaining {
 	display: none;
-}--**/
+}
 
 /* Estilos de la tabla */
 .tix_tickets_table {
@@ -255,24 +255,6 @@ select {
 	}
 }
 
-/*Animacion titulo*/
-@keyframes moveUpDown {
-	0% {
-		transform: translateY(0);
-	}
-	
-	50% {
-		transform: translateY(-10px);
-	}
-	
-	100% {
-		transform: translateY(0);
-	}
-}
-
-.wc-title img {
-	animation: moveUpDown 2s ease-in-out infinite;
-}
 
 .wp-block-post-content {
 	color: black !important;
