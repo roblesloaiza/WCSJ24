@@ -260,7 +260,7 @@ select {
 	color: black !important;
 }
 
-/*Asistentes*/
+/*Asistentes
 .tix-attendee-list .avatar {
 	height: 80px !important;
 	width: 80px !important;
@@ -300,7 +300,7 @@ select {
 	padding: 10px;
 	box-sizing: border-box;
 }
-
+*/
 @media (max-width: 1200px) {
 	.tix-attendee-list li {
 		flex-basis: 33.33%;
